@@ -69,7 +69,7 @@ section{
 }
 
 section i{
-    color: #271d80;
+    color: #0d6efd;
     margin-right: 10px;
 }
 
@@ -102,8 +102,8 @@ button{
     border: none;
     border-radius: 10px;
 
-    background: #1a247e;
-    color: white;
+    background: #0d6efd;
+    color: rgb(255, 255, 255);
 
     font-size: 16px;
     font-weight: bold;
